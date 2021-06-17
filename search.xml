@@ -4,11 +4,38 @@
   
     
     <entry>
-      <title>博客建立</title>
-      <link href="/2021/06/16/%E5%8D%9A%E5%AE%A2%E5%BB%BA%E7%AB%8B/"/>
-      <url>/2021/06/16/%E5%8D%9A%E5%AE%A2%E5%BB%BA%E7%AB%8B/</url>
+      <title>《让子弹飞》深度解析</title>
+      <link href="/2021/06/17/%E3%80%8A%E8%AE%A9%E5%AD%90%E5%BC%B9%E9%A3%9E%E3%80%8B%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90/"/>
+      <url>/2021/06/17/%E3%80%8A%E8%AE%A9%E5%AD%90%E5%BC%B9%E9%A3%9E%E3%80%8B%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90/</url>
       
-        <content type="html"><![CDATA[<p>#使用hexo部署个人博客<br>##Github </p>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><video src="https://www.bilibili.com/video/BV1hA411g7g7?spm_id_from=333.851.b_7265636f6d6d656e64.1" controls="controls" style="max-width: 100%; display: block; margin-left: auto; margin-right: auto;">your browser does not support the video tag</video><span id="more"></span><p>2010年上映了一部电影《让子弹飞》，然而10年后的今天很多人又翻看起这部电影来。这部电影当年票房高达7亿，导演姜文，这也是他最卖座的影片，10年前看这部电影时只觉得故事紧凑，情节起伏，场面酣畅淋漓。姜文、葛优、周润发、刘嘉玲明星大牌云集。幽默风趣的台词有点像话剧，是一部很有中国特色的电影。</p><div align="center"><img src="https://pic4.zhimg.com/v2-2d043d71037598e84141a4b79d06e785_1440w.jpg?source=172ae18b" width="50%" height="50%"></div>]]></content>
+      
+      
+      <categories>
+          
+          <category> 影评 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 导航 </tag>
+            
+            <tag> 分享 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>个人博客的建立</title>
+      <link href="/2021/06/17/%E4%BD%BF%E7%94%A8hexo+github%E6%90%AD%E5%BB%BA%E5%85%8D%E8%B4%B9%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E8%AF%A6%E7%BB%86%E6%95%99%E7%A8%8B/"/>
+      <url>/2021/06/17/%E4%BD%BF%E7%94%A8hexo+github%E6%90%AD%E5%BB%BA%E5%85%8D%E8%B4%B9%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E8%AF%A6%E7%BB%86%E6%95%99%E7%A8%8B/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><div align="center" style="font-size:30px"> 使用hexo+github搭建免费个人博客详细教程</div><span id="more"></span><h2 id="1-前言"><a href="#1-前言" class="headerlink" title="1.前言"></a>1.前言</h2><p>  使用github pages服务搭建博客的好处有：<br>  1.全是静态文件，访问速度快；<br>  2.免费方便，不用花一分钱就可以搭建一个自由的个人博客，不需要服务器不需要后台；<br>  3.可以随意绑定自己的域名，不仔细看的话根本看不出来你的网站是基于github的；<br>  4.数据绝对安全，基于github的版本管理，想恢复到哪个历史版本都行；<br>  5.博客内容可以轻松打包、转移、发布到其它平台；<br>  6.等等；</p><!--more--><h2 id="1-1-准备工作"><a href="#1-1-准备工作" class="headerlink" title="1.1. 准备工作"></a>1.1. 准备工作</h2><p>在开始一切之前，你必须已经：</p><ul><li><p>有一个github账号，没有的话去注册一个；</p></li><li><p>安装了node.js、npm，并了解相关基础知识；</p></li><li><p>安装了git for windows（或者其它git客户端）；</p></li></ul><p>本文所使用的环境：</p><ul><li>Windows10</li><li><a href="https://nodejs.org/zh-cn/">node.js@16.3.0</a></li><li><a href="https://git-scm.com/">git@2.32.0</a></li><li><a href="https://hexo.io/zh-cn/">Hexo @5.4.0</a></li></ul><h2 id="2-搭建github博客"><a href="#2-搭建github博客" class="headerlink" title="2.搭建github博客"></a>2.搭建github博客</h2><h2 id="2-1-创建仓库"><a href="#2-1-创建仓库" class="headerlink" title="2.1. 创建仓库"></a>2.1. 创建仓库</h2><p>新建一个名为<code>你的用户名.github.io</code>的仓库，比如说，如果你的github用户名是test，那么你就新建<code>test.github.io</code>的仓库（必须是你的用户名，其它名称无效），将来你的网站访问地址就是 <a href="http://test.github.io/">http://test.github.io</a> 了，是不是很方便？</p><p>由此可见，每一个github账户最多只能创建一个这样可以直接使用域名访问的仓库。</p><p>几个注意的地方：</p><pre><code>1. 注册的邮箱一定要验证，否则不会成功；2. 仓库名字必须是：`username.github.io`，其中`username`是你的用户名；3. 仓库创建成功不会立即生效，需要过一段时间，大概10-30分钟，或者更久，我的等了半个小时才生效；(建议科学上网或者修改系统hosts文件)</code></pre><p>创建成功后，默认会在你这个仓库里生成一些示例页面，以后你的网站所有代码都是放在这个仓库里啦。</p>]]></content>
       
       
       <categories>
@@ -31,11 +58,11 @@
     
     
     <entry>
-      <title>Hello World</title>
+      <title>hexo美化</title>
       <link href="/2021/06/14/hello-world/"/>
       <url>/2021/06/14/hello-world/</url>
       
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre><code class="bash">$ hexo new "My New Post"</code></pre><div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;"><iframe src="//player.bilibili.com/player.html?aid=39807850&amp;cid=69927212&amp;page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"> </iframe></div><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><span id="more"></span><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre><code class="bash">$ hexo server</code></pre><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre><code class="bash">$ hexo generate</code></pre><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre><code class="bash">$ hexo deploy</code></pre><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><span id="more"></span><div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;"><iframe src="//player.bilibili.com/player.html?aid=39807850&amp;cid=69927212&amp;page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"> </iframe></div><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre><code class="bash">$ hexo new "My New Post"</code></pre><!--more--><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre><code class="bash">$ hexo server</code></pre><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre><code class="bash">$ hexo generate</code></pre><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre><code class="bash">$ hexo deploy</code></pre><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
       
       
       
