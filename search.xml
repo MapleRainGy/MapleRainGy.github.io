@@ -4,7 +4,88 @@
   
     
     <entry>
-      <title>景点</title>
+      <title>H5是什么？</title>
+      <link href="/2021/06/22/H5%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F/"/>
+      <url>/2021/06/22/H5%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>注意注意： <strong>H5 != HTML5</strong></p><span id="more"></span><p><em>H5 是一个产品名词<br>HTML5 是一个技术名词</em></p><p>对于知乎多个相关问题里批判H5的叫法，我只想说：</p><blockquote><p>图样图森破，上台拿衣服</p></blockquote><p>打个比方，如果有个人跟你说：“我要做个网站，H5的”。<br>那TA是想让你用header、footer、nav、section等标签？<br>让你用Geolocation、localStorage、Web Worker等API？<br>都不是，TA们想要的功能你用HTML4就都能做出来了。<br>更别说还得兼容老IE浏览器呢。</p><p>所以年轻人，你们要用心理解客户的需求，不要沉迷于技术。<br>人家一定不是让你去用一种不被所有浏览器兼容的技术。</p><p>所以，H5指的不是HTML5，而是<strong>某种在微信等移动端看上去酷炫能够提升公司格调顺便亮瞎访问者氪金狗眼顿升膜拜之心<strong><strong>就算没有内容也能被广泛转发</strong></strong>分享的一种东西</strong>。</p><p>-—–<br>PS:<br>上面回答偏玩笑，感谢各位赞同。在此再从另一个角度分析下为什么技术人员也这么说：<br>为什么大家喜欢说H5而不是HTML5？去一场技术会议，或者自己做一个相关演讲就知道了。<br>不讲缩写嘴会抽筋的。</p><p>作者：思扬<br>链接：<a href="https://www.zhihu.com/question/30363342/answer/49952957">https://www.zhihu.com/question/30363342/answer/49952957</a><br>来源：知乎<br>著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 前端 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 导航 </tag>
+            
+            <tag> 分享 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>肖申克的救赎深度解析</title>
+      <link href="/2021/06/22/%E8%82%96%E7%94%B3%E5%85%8B%E7%9A%84%E6%95%91%E8%B5%8E%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90/"/>
+      <url>/2021/06/22/%E8%82%96%E7%94%B3%E5%85%8B%E7%9A%84%E6%95%91%E8%B5%8E%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>“<strong>一切都宛如梦境一样地不真实，只有当夜晚降临，四周漆黑一片，听到铁门关闭的声音，才忽然意识到这一切都是真真实实的。四周一片寂静，时间漫长无边，而剩下的只有思考。</strong>”</p><iframe src="//player.bilibili.com/player.html?aid=53019227&amp;bvid=BV1J4411j7xg&amp;cid=92761868&amp;page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe><span id="more"></span><p><img src="v2-24ac14f0c6de34848e5d3399f6f0de6c_720w.jpg" alt="img"></p><p>这是一个关于美国监狱的黑暗故事。黑暗在于司法的黑暗，在于其对人性的摧残。这种摧残不但限制了囚犯的精神自由，更扼杀了他们对生活仅有的向往。影片让人心生感动之处在于，它刻画了这样一个主人公——安迪。在黑暗体制的压迫下，<strong>安迪以极大的耐心、执着的信念，忍辱负重，完成了心灵的救赎，最终逃脱牢笼，到达希望与自由的圣地——芝华塔内欧。</strong></p><p>体制化下的人格畸形，是影片着力刻画的一个重点。在黑暗的肖申克监狱中，“以强凌弱、以老欺新”被视为天经地义，甚至是单调枯燥的囚狱生活中唯一的取乐方式。在这样的环境中，我们的主人公，一个有着极高的文化层次和个人修养的银行家，意外的被指控谋杀，走进肖申克监狱，开始了监狱长诺顿所谓的“心灵救赎”的漫漫之旅。</p><p>在很多老犯人眼中，看起来弱不禁风、书生气十足的安迪，肯定受不了这非人的折磨，必定会在入狱第一夜失声痛哭，像其他囚犯一样的沉沦。可是安迪却用沉默和坚韧，智慧和信念经受住了所有的一切。</p><p>在弥漫残忍、变态、暴唳、扭曲的监狱中，安迪可谓其中一道独特的风景。放风时，尤如在静谧的公园中一样的闲庭信步；维修房顶时，冒着被狱警推下屋顶的风险，为狱友争取啤酒；为了让狱友听上一段《费加罗的婚礼》，被关一周禁闭也在所不惜；为了让监狱不再枯燥，不停地写信给州议会，最终争取到一笔经费在监狱建起图书馆；<strong>为了心中的希望和自由，长期忍受着监狱长的苛责与呵斥，不动声色，用一把小锤子，日复一日凿出一条通往新生的暗道。</strong></p><p>肖申克，这座囚禁之所，在漫长的囚狱生涯中，很多像老布一样的人，刚开始排斥它，慢慢习惯它，最后离不开它。得到假释的老布，离开了囚禁他大半生的地方，得到了久违的自由。但作为一个体制化的产物，对于狱外的世界他一无所知。连狱友仅有的尊重和友谊都失去的时候，最后他选择了自杀。就连充满智慧、看破一切的瑞德，也被监狱中的种种体制束缚，无法找寻真正的自由。</p><p><strong>只有安迪，凭借着内心的那份坚忍，经历了血与火的心灵救赎，逃离了这个人间炼狱。安迪最终还是走了，有些鸟儿的颜色太鲜艳了，它们是关不住的。</strong></p><p><img src="v2-c8f4b4195fe3c913ea1c7294ced7de63_720w.jpg" alt="img"></p><p>也许正如梭罗所说：“一个人如何看待自己，这就决定了他的命运，或者说，指明了他的归宿。”安迪始终带着一种含义不明的表情，沉默却意志坚定，机敏过人却从不无谓地冒险。一步一步靠近自己的目标。当他终于爬出500米恶臭的污水管道，站在瓢泼大雨中的时候，我仿佛看到信念刺穿重重黑幕，在暗夜中打开了一道夺目霹雳的亮光。光芒之下，那些懦弱的灵魂在安迪张开的双臂下颤抖，久久无法平息。<strong>有一种鸟儿是永远也关不住的，因为它的每片羽翼上都沾满了希望与自由的光。</strong></p><p>每个人都为希望而生存，为自由而奋斗。但是在社会、生活、家庭的种种“体制”下，希望在一点点沦丧，自由在一寸寸丧失。但愿每个心存希望梦想的人，都能从安迪身上看到，无论环境多么艰苦、挫折多么沉重，永不放弃对希望与自由的追求，为了心中的芝华塔内欧，永往直前。 最后，把安迪留给瑞德的那封信送给大家：<strong>“心怀希望是一件好事，也许是最好的事，心怀希望就永远有希望……”</strong></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 影评 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 导航 </tag>
+            
+            <tag> 分享 </tag>
+            
+            <tag> 影评 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>天空之镜</title>
+      <link href="/2021/06/22/%E5%A4%A9%E7%A9%BA%E4%B9%8B%E9%95%9C/"/>
+      <url>/2021/06/22/%E5%A4%A9%E7%A9%BA%E4%B9%8B%E9%95%9C/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h2 id="茶卡盐湖，一个被旅行者们称为中国“天空之镜”的地方"><a href="#茶卡盐湖，一个被旅行者们称为中国“天空之镜”的地方" class="headerlink" title="茶卡盐湖，一个被旅行者们称为中国“天空之镜”的地方"></a>茶卡盐湖，一个被旅行者们称为中国“天空之镜”的地方</h2><iframe src="http://open.iqiyi.com/developer/player_js/coopPlayerIndex.html?vid=fc6faf73f50881ea8d77956525538f80&amp;tvId=20775683109&amp;accessToken=2.ef9c39d6c7f1d5b44768e38e5243157d&amp;appKey=8c634248790d4343bcae1f66129c1010&amp;appId=1368&amp;height=100%&amp;width=100%" frameborder="0" allowfullscreen="true" width="100%" height="500"></iframe><span id="more"></span><p><img src="0e2442a7d933c8959c62d473be02c6f6820200b5.jpeg" alt="img"></p><p>茶卡盐湖，一个被旅行者们称为中国“天空之镜”的地方，人一生必去的55个地方之一，在抖音刷爆了100w+的点赞，它如入梦境，恍如隔世~</p><p><img src="0df431adcbef76098f993c6845cc16ca7dd99e4b.jpeg" alt="img"></p><p>有那么一瞬间，你甚至会分不清，哪里是天，哪里是湖哪个是真实的世界，哪个是水中的幻影~</p><p>这个仙境之地，此生不去怎能心安!</p><p>更何况，2020年，茶卡盐湖景区还推出免费开放活动!</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 景色 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 景点 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>扎尕那</title>
       <link href="/2021/06/18/%E6%99%AF%E7%82%B9/"/>
       <url>/2021/06/18/%E6%99%AF%E7%82%B9/</url>
       
@@ -17,6 +98,12 @@
           
       </categories>
       
+      
+        <tags>
+            
+            <tag> 景点 </tag>
+            
+        </tags>
       
     </entry>
     
@@ -42,6 +129,8 @@
             <tag> 导航 </tag>
             
             <tag> 分享 </tag>
+            
+            <tag> 影评 </tag>
             
         </tags>
       
